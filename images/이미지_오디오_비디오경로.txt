@@ -1,0 +1,7 @@
+image 1 : http://peach.blender.org/wp-content/uploads/poster_rodents_small.jpg
+
+audio : http://media.w3.org/2010/07/bunny/04-Death_Becomes_Fur.mp4
+
+image 2 : http://www.sintel.org/wp-content/uploads/2010/05/title-Sintel.jpg
+
+video : http://media.w3.org/2010/05/sintel/trailer.mp4
